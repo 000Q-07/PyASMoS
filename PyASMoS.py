@@ -20,3 +20,4 @@ elif x == "#header":
     print("org 0x7c00")
 else:
     print("ERROR: either syntax error or ASM command wasn't added to the Compiler yet.")
+    
